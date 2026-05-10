@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "95f79a82-043c-4512-a33b-a3da982b7863")
 	(paper "A4")
+	(title_block
+		(title "Bicolor LED Analog Controller")
+		(date "2026-05-10")
+		(rev "RevA")
+		(company "DNF Designs")
+	)
 	(lib_symbols
 		(symbol "Comparator:LM393"
 			(pin_names

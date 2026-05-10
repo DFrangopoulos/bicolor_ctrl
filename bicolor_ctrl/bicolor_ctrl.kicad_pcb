@@ -4631,6 +4631,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "DNF Designs 2026"
+		(at 98.5 72.25 0)
+		(layer "F.SilkS")
+		(uuid "2adafb68-b991-46e2-9c11-5f16a6d576c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 111 61)
 		(end 111 62.35)
